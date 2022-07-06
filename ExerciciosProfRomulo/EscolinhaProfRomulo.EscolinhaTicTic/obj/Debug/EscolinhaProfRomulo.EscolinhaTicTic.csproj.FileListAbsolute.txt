@@ -1,0 +1,8 @@
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\bin\Debug\EscolinhaProfRomulo.EscolinhaTicTic.exe.config
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\bin\Debug\EscolinhaProfRomulo.EscolinhaTicTic.exe
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\bin\Debug\EscolinhaProfRomulo.EscolinhaTicTic.pdb
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\obj\Debug\EscolinhaProfRomulo.EscolinhaTicTic.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\obj\Debug\EscolinhaProfRomulo.EscolinhaTicTic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\obj\Debug\EscolinhaProfRomulo.EscolinhaTicTic.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\obj\Debug\EscolinhaProfRomulo.EscolinhaTicTic.exe
+C:\Users\Aluno\Desktop\cursojavascript\ExerciciosProfRomulo\EscolinhaProfRomulo.EscolinhaTicTic\obj\Debug\EscolinhaProfRomulo.EscolinhaTicTic.pdb
