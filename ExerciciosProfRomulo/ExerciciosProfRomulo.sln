@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.Matema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscolinhaProfRomulo.EscolinhaTicTic", "EscolinhaProfRomulo.EscolinhaTicTic\EscolinhaProfRomulo.EscolinhaTicTic.csproj", "{96795549-42F0-4A97-951E-D3F7FB35AB0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.ExercicioSeis", "ExerciciosProfRomulo.ExercicioSeis\ExerciciosProfRomulo.ExercicioSeis.csproj", "{64F1006D-22AC-49A8-9F80-F0820B5B03EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciciosProfRomulo.ExercicioSete", "ExerciciosProfRomulo.ExercicioSete\ExerciciosProfRomulo.ExercicioSete.csproj", "{E6D9A2B6-5C74-46DD-81C0-3EB5667DD212}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{96795549-42F0-4A97-951E-D3F7FB35AB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96795549-42F0-4A97-951E-D3F7FB35AB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96795549-42F0-4A97-951E-D3F7FB35AB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F1006D-22AC-49A8-9F80-F0820B5B03EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F1006D-22AC-49A8-9F80-F0820B5B03EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F1006D-22AC-49A8-9F80-F0820B5B03EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F1006D-22AC-49A8-9F80-F0820B5B03EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D9A2B6-5C74-46DD-81C0-3EB5667DD212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D9A2B6-5C74-46DD-81C0-3EB5667DD212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D9A2B6-5C74-46DD-81C0-3EB5667DD212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D9A2B6-5C74-46DD-81C0-3EB5667DD212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
